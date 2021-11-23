@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently studying on ZUST
- 🌱 I’m currently learning JAVA 
+- 🔭 I’m currently studying on ZUST
+- 🌱 I’m currently learning JAVA 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
- 📫 How to reach me: 
+- 📫 How to reach me: 
 QQ : 835434666
 Email: Fenco_Han@163.com
 - 😄 Pronouns: ...
